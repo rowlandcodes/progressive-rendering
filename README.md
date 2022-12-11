@@ -1,7 +1,7 @@
 # Progressive Rendering
 
 This is a port of Dinesh Pandiyan's [progressive rendering demo](https://github.com/flexdinesh/progressive-rendering) to Elixir.
-As described in their article here: [](https://medium.com/the-thinkmill/progressive-rendering-the-key-to-faster-web-ebfbbece41a4)
+As described in their article here: [https://medium.com/the-thinkmill/progressive-rendering-the-key-to-faster-web-ebfbbece41a4]()
 
 > Progressive rendering is a technique where you can stream portions of a webpage as chunks from the server and the browser will render it as soon as the chunks are received without waiting for the whole HTML string to be received.
 
