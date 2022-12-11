@@ -7,6 +7,8 @@ As described in their article here: [https://medium.com/the-thinkmill/progressiv
 
 ## Example
 
+Download dependencies with `mix deps.get`.
+
 Start the server with `mix run --no-halt`
 
 ### Full Rendering
